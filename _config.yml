@@ -1,0 +1,13 @@
+title: "Uzezi Okinedo"
+description: "Biology Ph.D. candidate researching plant genomics and evolutionary biology."
+theme: minima
+baseurl: ""
+url: "https://uzezi93.github.io/uzezi-okinedo/"
+
+# Exclude these files/folders from the build process
+exclude:
+  - .github
+
+# Navigation (optional for navbar)
+header_pages:
+  - index.md
