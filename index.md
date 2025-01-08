@@ -3,28 +3,29 @@ layout: home
 ---
 
 <!-- Top Navigation with Logo Links -->
-<div style="background-color: #333; padding: 10px; text-align: center;">
- <a href="https://uzezi93.github.io/uzezi-okinedo/" style="font-size: 30px; font-weight: bold;">Uzezi Okinedo
-</a>
-<a href="https://scholar.google.com/citations?user=LJ4IudYAAAAJ&hl=en" target="_blank" style="margin: 0 5px;">
-  <img src="assets/googlescholar.jpeg" alt="Google Scholar" style="width: 30px; height: 30px;"/>
-</a>
-<a href="https://github.com/Uzezi93" target="_blank" style="margin: 0 5px;">
-  <img src="assets/github.png" alt="GitHub" style="width: 30px; height: 30px;"/>
-</a>
-<a href="https://www.linkedin.com/in/uzezi-okinedo-978bb0110" target="_blank" style="margin: 0 5px;">
-  <img src="assets/linked-in.png" alt="LinkedIn" style="width: 30px; height: 30px;"/>
-</a>
-<a href="mailto:Uzezi.Okinedo001@umb.edu" style="margin: 0 5px;">
-  <img src="assets/email-logo.jpeg" alt="Email" style="width: 30px; height: 30px;"/>
-</a>
-<a href="https://uzezi93.github.io/uzezi-okinedo/" style="font-size: 20px; margin-left: 10px; margin-right: 10px;">About
-</a>
-<a href="assets/CV.pdf" style="font-size: 20px;">CV
-</a>
+<div style="background-color: white; padding: 10px; text-align: left; 
+            border-bottom: 2px solid grey; border-radius: 15px; 
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <a href="https://uzezi93.github.io/uzezi-okinedo/" style="font-size: 30px; font-weight: bold;">Uzezi Okinedo
+  </a>
+  <a href="https://scholar.google.com/citations?user=LJ4IudYAAAAJ&hl=en" target="_blank" style="margin: 0 5px;">
+    <img src="assets/googlescholar.jpeg" alt="Google Scholar" style="width: 30px; height: 30px;"/>
+  </a>
+  <a href="https://github.com/Uzezi93" target="_blank" style="margin: 0 5px;">
+    <img src="assets/github.png" alt="GitHub" style="width: 30px; height: 30px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/uzezi-okinedo-978bb0110" target="_blank" style="margin: 0 5px;">
+    <img src="assets/linked-in.png" alt="LinkedIn" style="width: 30px; height: 30px;"/>
+  </a>
+  <a href="mailto:Uzezi.Okinedo001@umb.edu" style="margin: 0 5px;">
+    <img src="assets/email-logo.jpeg" alt="Email" style="width: 30px; height: 30px;"/>
+  </a>
+  <a href="https://uzezi93.github.io/uzezi-okinedo/" style="font-size: 20px; margin-left: 10px; margin-right: 10px;">About
+  </a>
+  <a href="assets/CV.pdf" style="font-size: 20px;">CV
+  </a>
 </div>
 
----
 
 <h2 style="font-size: 40px;">About Me</h2>
 
