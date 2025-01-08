@@ -54,69 +54,69 @@ In summary, my research interest include:
 ## Awards & Recognition
 
 ##### **2024** 
-**[Global Rice Research Foundation (GRRF) Leadership Award](https://ricefound.org/award-winners/)** ($7,150).
+- **[Global Rice Research Foundation (GRRF) Leadership Award](https://ricefound.org/award-winners/)** ($7,150).
 
 ---
 
 ##### **2023** 
-**International Rice Research Institute (IRRI) MSI Scholarship** by USAID (~ $45,000).  
+- **International Rice Research Institute (IRRI) MSI Scholarship** by USAID (~ $45,000).  
 
-**UMass Boston Nancy Goranson Endowment Fund** ($735).  
+- **UMass Boston Nancy Goranson Endowment Fund** ($735).  
 
-**[Best Poster Presentation](https://botany.org/home/awards/annual-award-recipients/2023-award-recipients.html)**, Economic Botany Section - Botany 2023, Boise, Idaho.  
+- **[Best Poster Presentation](https://botany.org/home/awards/annual-award-recipients/2023-award-recipients.html)**, Economic Botany Section - Botany 2023, Boise, Idaho.  
 
-**[Association for Women in Science (AWIS) Distinguished Dissertation Research Scholarship](https://awis.org/scholarships/)** ($10,000).  
+- **[Association for Women in Science (AWIS) Distinguished Dissertation Research Scholarship](https://awis.org/scholarships/)** ($10,000).  
 
-**Corteva Showcase Award**.  
+- **Corteva Showcase Award**.  
 
-**[Botanical Society of America (BSA) Genetics Section Student Travel Award](https://botany.org/home/awards/annual-award-recipients/2023-award-recipients.html)** ($500).  
+- **[Botanical Society of America (BSA) Genetics Section Student Travel Award](https://botany.org/home/awards/annual-award-recipients/2023-award-recipients.html)** ($500).  
 
-**American Society of Plant Biologists (ASPB) Recognition Travel Award**.  
+- **American Society of Plant Biologists (ASPB) Recognition Travel Award**.  
 
-**Herbert Lipke Memorial Endowment Fund** ($1,000).  
+- **Herbert Lipke Memorial Endowment Fund** ($1,000).  
 
-**[Cold Spring Harbor Laboratory (CSHL) Financial Award](https://meetings.cshl.edu/alumni.aspx?course=C-PLAN&year=18)** for course attendance ($3,000).
+- **[Cold Spring Harbor Laboratory (CSHL) Financial Award](https://meetings.cshl.edu/alumni.aspx?course=C-PLAN&year=18)** for course attendance ($3,000).
 
 ---
 
 ##### **2022** 
-**[Honorable Mention](https://www.gwis.org/page/past_fellowships)** by Graduate Women in Science (GWIS) National Fellowship.
+- **[Honorable Mention](https://www.gwis.org/page/past_fellowships)** by Graduate Women in Science (GWIS) National Fellowship.
 
-**[Genetics Society of America (GSA) DeLill Nasser Award](https://genestogenomes.org/congratulations-to-the-spring-2022-delill-nasser-awardees/)** for Professional Development in Genetics ($1,000).
+- **[Genetics Society of America (GSA) DeLill Nasser Award](https://genestogenomes.org/congratulations-to-the-spring-2022-delill-nasser-awardees/)** for Professional Development in Genetics ($1,000).
 
-**[American Association of University Women (AAUW) International Doctoral Fellowship](https://www.aauw.org/fellowships_directory/#rid6616)** ($20,000).
+- **[American Association of University Women (AAUW) International Doctoral Fellowship](https://www.aauw.org/fellowships_directory/#rid6616)** ($20,000).
 
 ---
 
 ##### **2021** 
-**Summer Institute of Statistical Genetics (SISG) Scholarship Recipient**.
+- **Summer Institute of Statistical Genetics (SISG) Scholarship Recipient**.
 
 ---
 
 ##### **2019** 
-**[EducationUSA Opportunity Fund Scholar](https://thenationonlineng.net/u-s-opportunity-funds-scholars-share-experience/#google_vignette)**.
+- **[EducationUSA Opportunity Fund Scholar](https://thenationonlineng.net/u-s-opportunity-funds-scholars-share-experience/#google_vignette)**.
 
-**Dr. D.K Olukoya Academic Award of Excellence**.
+- **Dr. D.K Olukoya Academic Award of Excellence**.
 
 ---
 
 ##### **2016** 
-**First Class Honors** (Cell Biology and Genetics).
+- **First Class Honors** (Cell Biology and Genetics).
 
 ---
 
 ##### **2012 – 2015** 
-**University of Lagos Endowment Award** for Academic Excellence (2012/2013, 2013/2014, 2014/2015).
+- **University of Lagos Endowment Award** for Academic Excellence (2012/2013, 2013/2014, 2014/2015).
 
 ---
 
 ##### **2014** 
-**Mountain of Fire and Miracles Ministries Acknowledgement** of Academic Excellence.
+- **Mountain of Fire and Miracles Ministries Acknowledgement** of Academic Excellence.
 
 ---
 
 ##### **2013** 
-**Science Student Fellowship (SSF) Award** for Academic Excellence.
+- **Science Student Fellowship (SSF) Award** for Academic Excellence.
 
 
 ---
