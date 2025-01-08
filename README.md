@@ -39,7 +39,7 @@ Currently, I am a Global Rice Research Foundation (GRRF) leadership fellow and a
 
 ## Research Interests
 
-My research focuses on the genetic architecture of complex traits and the phenotypic responses of plants to diverse environments. I use computational genomics, computer vision techniques, and evolutionary models to explore how plants adapt to varying conditions and to uncover the genetic basis of trait variation. My primary research is on rice, where I have completed projects investigating the genetic basis of seed trait variation through computer vision-based phenotyping. Other projects include examining how genetic variation influences rice reproductive traits under heat stress and tolerance to iron deficiency. Additionally, I have conducted research on Silverleaf sunflowers, exploring how gene pleiotropy contributes to their environmental adaptation.
+My research focuses on the genetic architecture of complex traits and the phenotypic responses of plants to diverse environments. I use computational genomics, computer vision techniques, and evolutionary models to explore how plants adapt to varying conditions and to uncover the genetic basis of trait variation. My primary research is on rice, where I have completed projects investigating the genetic basis of seed trait variation through computer vision-based phenotyping. Other projects include examining how genetic variation influences rice reproductive traits under heat stress and tolerance to iron deficiency under Direct-Seeded conditions. Additionally, I have conducted research on Silverleaf sunflowers, exploring how gene pleiotropy contributes to their environmental adaptation.
 
 In summary, my research interest include:
 
