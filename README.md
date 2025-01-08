@@ -31,9 +31,9 @@ layout: home
 
 <img src="assets/IMG_1496.jpeg" alt="My Photo" style="width: 200px; height: 300px; border-radius: 0; float: right; margin-left: 20px; margin-top: -20px;" />
 
-I am a Biology Ph.D. candidate in the [Moyers Lab](https://www.brookmoyers.com) at the University of Massachusetts Boston. My research focuses on plant genomics and evolutionary biology, with a particular interest in understanding the genetic basis of trait variation and how plants adapt to diverse environments. I hold a Bachelor’s degree in Cell Biology and Genetics and a Master’s degree in Cell and Molecular Biology from the University of Lagos, earned in 2016 and 2019, respectively.
+I am a Biology Ph.D. candidate in the [Moyers Lab](https://www.brookmoyers.com) at the University of Massachusetts Boston. My research focuses on plant genomics and evolutionary biology, with a particular interest in understanding the genetic basis of trait variation and how plants adapt to diverse environments. I hold a Bachelor's of Science degree in Cell Biology and Genetics and a Master’s of Science degree in Cell and Molecular Biology from the University of Lagos, earned in 2016 and 2019, respectively.
 
-Currently, I am a Global Rice Research Foundation (GRRF) leadership fellow and a recipient of the International Rice Research Institute (IRRI) MSI scholarship. As part of the IRRI MSI program, I contributed to a project assessing the genetic basis of iron deficiency tolerance in rice varieties from the IRRI gene bank. My expertise spans computational genomics, evolutionary biology, quantitative genetics, and, more recently, AI-based predictive modeling.
+Currently, I am a Global Rice Research Foundation (GRRF) leadership fellow and a recipient of the International Rice Research Institute (IRRI) MSI scholarship. As part of the IRRI MSI program, I contribute to a project that assesses genetic basis of iron deficiency tolerance in rice varieties from the IRRI gene bank. My expertise spans computational genomics, evolutionary biology, quantitative genetics, and, more recently, AI-based predictive modeling.
 
 ---
 
