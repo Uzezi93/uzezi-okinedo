@@ -123,19 +123,19 @@ In summary, my research interest include:
 
 <div style="text-align: center;">
   <a href="https://github.com/Uzezi93" target="_blank" style="margin: 0 15px;">
-    <img src="assets/github.png" alt="GitHub" style="width: 30px; height: 30px;"/>
+    <img src="assets/github.png" alt="GitHub" style="width: 30px; height: 30px; filter: grayscale(100%);"/>
     GitHub
   </a>
   <a href="https://www.linkedin.com/in/uzezi-okinedo-978bb0110" target="_blank" style="margin: 0 15px;">
-    <img src="assets/linked-in.png" alt="LinkedIn" style="width: 30px; height: 30px;"/>
+    <img src="assets/linked-in.png" alt="LinkedIn" style="width: 30px; height: 30px; filter: grayscale(100%);"/>
     LinkedIn
   </a>
   <a href="mailto:Uzezi.Okinedo001@umb.edu" style="margin: 0 15px;">
-    <img src="assets/email-logo.jpeg" alt="Email" style="width: 30px; height: 30px;"/>
+    <img src="assets/email-logo.jpeg" alt="Email" style="width: 30px; height: 30px; filter: grayscale(100%);"/>
     Email
   </a>
   <a href="https://scholar.google.com/citations?user=LJ4IudYAAAAJ&hl=en" target="_blank" style="margin: 0 15px;">
-    <img src="assets/googlescholar.jpeg" alt="Google Scholar" style="width: 30px; height: 30px;"/>
+    <img src="assets/googlescholar.jpeg" alt="Google Scholar" style="width: 30px; height: 30px; filter: grayscale(100%);"/>
     Google Scholar
   </a>
 </div>
