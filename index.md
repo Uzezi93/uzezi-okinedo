@@ -22,7 +22,7 @@ layout: home
   </a>
   <a href="https://uzezi93.github.io/uzezi-okinedo/" style="font-size: 20px; margin-left: 10px; margin-right: 10px;">About
   </a>
-  <a href="assets/CV.pdf" style="font-size: 20px;">CV
+  <a href="assets/CV.pdf" style="font-size: 20px;" target="_blank" download="CV.pdf">CV
   </a>
 </div>
 
